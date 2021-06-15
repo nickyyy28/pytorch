@@ -19,3 +19,6 @@ img_tensor = tensor(img)
 writer.add_image("Tensor_img", img_tensor, 1)
 
 writer.close()
+
+# test....
+
